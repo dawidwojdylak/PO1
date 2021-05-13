@@ -1,3 +1,0 @@
-/home/dawid/Programowanie/C++_II_term/01_PO1/lab01/build/CMakeFiles/rebuild_cache.dir
-/home/dawid/Programowanie/C++_II_term/01_PO1/lab01/build/CMakeFiles/edit_cache.dir
-/home/dawid/Programowanie/C++_II_term/01_PO1/lab01/build/CMakeFiles/ftest.dir
