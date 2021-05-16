@@ -6,7 +6,7 @@ class Algo;
 class Argumenty
 {
 public:
-  // konstruktor umozliwiajacy tworzenie obiektor lista inicjalizacyjna
+  // konstruktor umozliwiajacy tworzenie obiektow lista inicjalizacyjna
   // Argumenty a{{0, 2.5}, {1,4},..itd..};
   // pierwszy element to indeks tablicy, drugi to wartość argumentu.
   // Konstruktor nie sprawdza poprawności wprowadzanych danych.
